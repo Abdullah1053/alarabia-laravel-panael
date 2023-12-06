@@ -11,34 +11,36 @@
         }
     },
     "sectionTwo":{
-        "title" : "Experience in Number",
-        "text" : "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less rmal distribution of letters.",
+        "title" : "العمارة العربية للمقاولات",
+        "text" : "تطبيق حجز خدمات المقاولات هو تطبيق ذكي يربط بين العملاء ومقدمي خدمات المقاولات. يوفر التطبيق للعملاء تجربة حجز سهلة وسلسة، مع إمكانية الوصول إلى مجموعة واسعة من مقدمي الخدمات في منطقتهم.",
+        "subText":"تأسست شركة العمارة العربية للمقاولات في عام 2023، وهي شركة رائدة في مجال المقاولات التي تربط بين العملاء ومقدمي خدمات المقاولات. يقع المقر الرئيسي للشركة في  صنعاء,الجمهورية اليمنية ولديها عمليات في جميع أنحاء الجمهورية.        ",
         "card":{
-            "count1" :"250+",
-            "value1" :"Authorized Team",
-            "count2" :"90+",
-            "value2" :"Service Cities",
-            "count3" :"1400+",
-            "value3" :"Happy Customers"
+            "count1" :"5+",
+            "value1" :"مقاولين",
+            "count2" :"27+",
+            "value2" :"محافظة",
+            "count3" :"100+",
+            "value3" :"عميل سعيد"
         },
         "goal_to_achieve":{
-            "title":"Goal to Achieve",
-            "text":"Amet minim mollit n deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit.",
+            "title":"اهدافنا",
+            "text":"تتمثل مهمة الشركة في تسهيل عملية البحث عن مقاولين مؤهلين وتوفير تجربة حجز سهلة وسلسة. تقدم الشركة مجموعة واسعة من الخدمات، بما في ذلك:         ",
             "checklist":[
-                "Amet minim mollit n deserunt",
-                "Amet minim mollit n deserunt",
-                "Amet minim mollit n deserunt"
+                "العثور على مقاولين مؤهلين: يمكن للعملاء البحث عن مقاولين حسب نوع المشروع، والموقع، والميزانية.",
+                "مقارنة الأسعار والعروض: يمكن للعملاء مقارنة الأسعار والعروض المقدمة من مختلف المقاولين.",
+                "قراءة تقييمات العملاء الآخرين: يمكن للعملاء قراءة تقييمات العملاء الآخرين لمساعدتهم في اتخاذ قراراتهم.",
+                "التواصل مع المقاولين مباشرة: يمكن للعملاء التواصل مع المقاولين مباشرة لمناقشة التفاصيل."
             ],
             "image" : "about-bg.png"
         }
     },
     "sectionFour":{
-        "title":"Meet Our leaders",
-        "text": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout."
+        "title":"نعرف على مقاولينا",
+        "text": ""
     },
     "sectionSix":{
-        "title": "Subscribe to our newsletter",
-        "text" : "Subscribe to the newsletter to receive exclusive offers, latest news, and updates",
-        "buttontext" : "Subscribe"
+        "title": "اشترك ليصلك كل جديد",
+        "text" : "اشترك معنا لتلقي العروض الحصرية وآخر الأخبار والتحديثات",
+        "buttontext" : "الاشتراك"
     }
 }
