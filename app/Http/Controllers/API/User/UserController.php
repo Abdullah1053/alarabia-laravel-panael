@@ -490,7 +490,7 @@ class UserController extends Controller
             $messagedata = __('messages.contact_us_greetings');
             return comman_message_response($messagedata);
         } catch (\Throwable $th) {
-            $messagedata = __('messages.something_wrong');
+            $messagedata = __('messages.something_wrong') .$th;
             return comman_message_response($messagedata);
         }
       
